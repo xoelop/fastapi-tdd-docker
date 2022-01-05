@@ -1,0 +1,6 @@
+__pycache__
+.e
+htmlcov
+*.pyc
+.vscode
+.devcontainer
